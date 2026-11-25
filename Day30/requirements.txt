@@ -1,0 +1,8 @@
+mistralai
+python-dotenv
+streamlit
+chromadb
+pypdf
+ddgs
+tavily-python
+groq
