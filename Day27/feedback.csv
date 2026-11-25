@@ -1,0 +1,16 @@
+timestamp,question,answer,label,feedback
+2026-11-22T19:47:41.755958,Where is my booking BK201?,"Your booking BK201 for *Interstellar* is confirmed! You have 2 tickets for the 7:30 PM show on **Screen 3**. Seats: A1, A2.
+
+Enjoy your movie! 🍿",booking,up
+2026-11-22T19:47:48.320373,Where is my booking BK201?,"Your booking BK201 for *Interstellar* is confirmed! You have 2 tickets for the 7:30 PM show on **Screen 3**. Seats: A1, A2.
+
+Enjoy your movie! 🍿",booking,down
+2026-11-22T19:47:57.730187,Where is my booking BK201?,"Your booking BK201 for *Interstellar* is confirmed! You have 2 tickets for the 7:30 PM show on **Screen 3**. Seats: A1, A2.
+
+Enjoy your movie! 🍿",booking,up
+2026-11-22T19:48:15.652079,Where is my booking BK201?,"Your booking BK201 for *Interstellar* is confirmed! You have 2 tickets for the 7:30 PM show on **Screen 3**. Seats: A1, A2.
+
+Enjoy your movie! 🍿",booking,down
+2026-11-22T19:48:17.093653,Where is my booking BK201?,"Your booking BK201 for *Interstellar* is confirmed! You have 2 tickets for the 7:30 PM show on **Screen 3**. Seats: A1, A2.
+
+Enjoy your movie! 🍿",booking,up
